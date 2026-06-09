@@ -1,0 +1,13 @@
+node_modules/
+server/node_modules/
+.env
+server/.env
+/server/uploads/
+.DS_Store
+dist/
+.vite/
+/.idea/
+/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
